@@ -29,6 +29,7 @@ package PrimerasPracticasJava;
  * -=NUMERO QUE DESEAS DECREMENTAR EJ: -=3
  */
 
+
 //EN CASO DE DIVISION LOS TIPOS DE DATOS QUE SE TIENE QUE UTILIZAR ES DOUBLE O FLOAT
 public class ConstantesYOperadores {
 	public static void main(String[] args)
