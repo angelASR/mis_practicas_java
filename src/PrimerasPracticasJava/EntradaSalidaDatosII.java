@@ -12,6 +12,7 @@ public class EntradaSalidaDatosII {
 		 * El metodo de abajo se utiliza para pasar los String a tipos enteros
 		 * por que el jPane solo devuelve valores en String
 		 * y puede cuasar problemas en la hora de hacer sumar o otras cosas que llevan los operadores
+		* declarar el Ej: import javax.swing.*;
 		 */
 		int edadUser= Integer.parseInt(edad);
 		System.out.println("hola " + nombreUser + " tienes " + edad + " Años ");
